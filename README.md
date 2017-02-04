@@ -1,4 +1,4 @@
-# PuppyMCMC
+# mcmc
 
 ### `PyMC3` examples from [Doing Bayesian Data Analysis][site]
 
